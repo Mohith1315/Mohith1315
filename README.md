@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mohith1315
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html,CSS,js,termux
-- 💞️ I’m looking to collaborate on termux
-
+- 👀 I’m a Penetration Tester cum Bug hunter
 
 <!---
 Mohith1315/Mohith1315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
